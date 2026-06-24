@@ -1,0 +1,22 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.project.referencedLibraries": {
+    "include": [
+      "backend/target/**/*.jar"
+    ],
+    "exclude": [
+      "**/node_modules/**",
+      "**/.*"
+    ]
+  },
+  "maven.executable.preferMavenWrapper": true,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+      "source.fixAll": "explicit"
+    }
+  },
+  "redhat.telemetry.enabled": true
+}

@@ -28,7 +28,6 @@ A modern, full-stack Employee Management System built with React and Spring Boot
 - [API Documentation](#api-documentation)
 - [Development](#development)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -349,24 +348,4 @@ We welcome contributions! Please follow these guidelines:
 - Include comments for complex logic
 - Add unit tests for new features
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Support
-
-For issues, questions, or suggestions, please [open an issue](../../issues) or contact the development team.
-
----
-
-<div align="center">
-
-**Made with ❤️ by the EMS Development Team**
-
-[⬆ Back to top](#employee-management-system-ems)
-
-</div>
